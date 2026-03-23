@@ -1,0 +1,1 @@
+Using different features like number of days off, the previous year gpa, amount of hours studied , we are developing a model that is using logsitic regression to determine of the learners is going to pass
